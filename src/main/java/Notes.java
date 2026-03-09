@@ -1,6 +1,6 @@
 /**
 	* File: Lesson 1.11 - Math
-	* Author: Mr. Kalisz
+	* Author: Raymond Shen
 	* Date Created: Feb 24, 2023
 	* Date Last Modified: Mar 3, 2026
 	*/
